@@ -3,7 +3,7 @@ package aeds;
 
 import java.util.Scanner;
 
-public class AEDS {
+public class EX_1 {
 
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
